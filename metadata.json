@@ -1,0 +1,6 @@
+{
+  "name": "Data Copilot",
+  "description": "Upload a dataset and find data quality issues using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
